@@ -16,7 +16,7 @@ Greetings! I’m Sidan, the Comedic Coder, here to make coding fun and full of l
 -🎵 Musical Debugger: I sing to my bugs, hoping they’ll dance away. And sometimes they do—right into production!
 
 ### Let’s Laugh Together:
-- GitHub: [code_sidiously](https://github.com/code_sidiously)
+- GitHub: [code-sidiously](https://github.com/code-sidiously)
 - 📫 Email: siddhantkalagate@gmail.com
 
 Join me in this humorous expedition through the world of code, where the punchlines are as important as the semicolons. Let's make coding a laugh riot! 🎉😂
